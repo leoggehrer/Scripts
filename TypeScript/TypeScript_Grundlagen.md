@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # TypeScript
 
 ## TS Überblick
@@ -8,7 +12,7 @@ Compiletime-Errors
 Objektorientiert
 Gute Toolunterstützung
 
-![Folie 1 Bild 3](img/slide1_img3.jpeg)
+![Folie 1 Bild 3](img/typescript.png)
 
 ---
 
